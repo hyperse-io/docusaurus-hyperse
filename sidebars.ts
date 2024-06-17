@@ -21,22 +21,22 @@ const sidebars: SidebarsConfig = {
         {
           type: 'link',
           label: 'MUI OTP input',
-          href: 'https://viclafouch.github.io/mui-otp-input/',
+          href: 'https://hyperse.github.io/mui-otp-input/',
         },
         {
           type: 'link',
           label: 'MUI tel input',
-          href: 'https://viclafouch.github.io/mui-tel-input/',
+          href: 'https://hyperse.github.io/mui-tel-input/',
         },
         {
           type: 'link',
           label: 'MUI chips input',
-          href: 'https://viclafouch.github.io/mui-chips-input/',
+          href: 'https://hyperse.github.io/mui-chips-input/',
         },
         {
           type: 'link',
           label: 'MUI file input',
-          href: 'https://viclafouch.github.io/mui-file-input/',
+          href: 'https://hyperse.github.io/mui-file-input/',
         },
       ],
     },
