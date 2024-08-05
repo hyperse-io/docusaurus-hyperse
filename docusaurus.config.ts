@@ -4,8 +4,9 @@ import type { Config } from '@docusaurus/types';
 import type * as Plugin from '@docusaurus/types/src/plugin';
 
 const config: Config = {
-  title: 'MUI tel input',
-  tagline: 'A phone number input designed for the React library MUI built with',
+  title: 'Hyperse docusaurus starter',
+  tagline:
+    '🌿💚 Full stack development suites, front end, nodejs, typescript, architecture built on TypeScript and Nodejs',
   url: 'https://hyperse.github.io',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -50,7 +51,7 @@ const config: Config = {
       },
     },
     navbar: {
-      title: 'Hyperse',
+      // title: 'Hyperse',
       hideOnScroll: false,
       logo: {
         alt: 'Hyperse',
